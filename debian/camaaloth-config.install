@@ -1,0 +1,2 @@
+rootfs/etc/default/grub.d/camaaloth.cfg etc/default/grub.d
+rootfs/etc/sysctl.d/99-camaaloth.conf etc/sysctl.d
