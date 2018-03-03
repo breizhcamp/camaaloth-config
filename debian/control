@@ -7,5 +7,9 @@ Standards-Version: 4.1.1
 
 Package: camaaloth-config
 Architecture: amd64 arm64 armel armhf i386 mips mips64el mipsel ppc64el
-Conflicts: ubuntu-release-upgrader-core, unattended-upgrades, lxd, lxcfs, lxc-common, snapd, open-iscsi, mlocate
+Conflicts: ubuntu-release-upgrader-core, unattended-upgrades, lxd, lxcfs, lxc-common, snapd, open-iscsi, mlocate, pulseaudio
+Description: Camaaloth capture comptuer configuration
+
+Package: midioscar
+Architecture: amd64 arm64 armel armhf i386 mips mips64el mipsel ppc64el
 Description: Camaaloth capture comptuer configuration
