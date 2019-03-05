@@ -1,6 +1,0 @@
-# https://www.kernel.org/doc/html/v4.12/admin-guide/pm/intel_pstate.html#active-mode
-[Unit]
-Description=Midioscar
-
-[Service]
-ExecStart=/opt/local/bin/midioscar serve -i 3 -h 127.0.0.1:21547

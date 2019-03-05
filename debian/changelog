@@ -1,3 +1,9 @@
+camaaloth-config (0.2) bionic; urgency=medium
+
+  * Remove midioscar, MIDI is now managed by Nageru
+
+ -- Yoann Dubreuil <yoann.dubreuil@gmail.com>  Tue, 5 Mar 2019 21:39:00 +0100
+
 camaaloth-config (0.1) bionic; urgency=medium
 
   * Initial release

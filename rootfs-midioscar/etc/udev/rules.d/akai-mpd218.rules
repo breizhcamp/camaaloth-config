@@ -1,2 +1,0 @@
-ACTION=="add", SUBSYSTEM=="usb", ENV{ID_VENDOR_ID}=="09e8", ENV{ID_MODEL_ID}=="0034", RUN+="/bin/systemctl start midioscar"
-ACTION=="remove", SUBSYSTEM=="usb", ENV{ID_VENDOR_ID}=="09e8", ENV{ID_MODEL_ID}=="0034", RUN+="/bin/systemctl stop midioscar"

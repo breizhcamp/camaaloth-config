@@ -1,2 +1,0 @@
-rootfs-midioscar/etc/udev/rules.d/akai-mpd218.rules etc/udev/rules.d
-rootfs-midioscar/opt/local/bin/midioscar opt/local/bin
